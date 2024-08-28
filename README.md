@@ -241,6 +241,8 @@ complete class survey; "hello world," post on Discord (invite link will be e-mai
 
 *Questioning Automation, Final Reflections* 
 
+**Readings due today:**
+- TBD
 
 **Assignment:** final reflection \
 DUE: Dec. 9th, 11:59pm
