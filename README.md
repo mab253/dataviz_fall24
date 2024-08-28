@@ -66,9 +66,9 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 *Introduction to Data Visualization, Hello World!*
 
-**Assignment:** \
-complete class survey; "hello world," post on Discord (invite link will be e-mailed) \
-**DUE:** Friday Aug. 30th, 11:59pm (happy labor day weekend!)
+**Assignment:** due Friday Aug. 30th, 11:59pm (happy labor day weekend!)
+- complete class [survey](https://airtable.com/app6HibgdChLzfvNP/shrUoAGNjNRgqYWD5) (password: datapro2024)
+- "hello world," post on Discord (invite link will be e-mailed) 
 
 ---
 
