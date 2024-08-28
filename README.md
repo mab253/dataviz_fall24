@@ -149,6 +149,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **Readings due today:**
 - [_Data in Wonderland_](https://ssp3nc3r.github.io/data_in_wonderland/#interactive), Spencer, Ch. 3 "Interactive" - all of Ch. 3!
+- intro Javascript, TBD
 
 
 ---
