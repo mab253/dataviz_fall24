@@ -314,14 +314,14 @@ It is important that everything you turn in for this class is your own work. I u
 - Incorporate a few lines of code that you find online or elsewhere into your own code, provided that those lines are not solutions to assigned work and that you cite the lines’ origins.
 - Turning to the web or elsewhere for instruction beyond the course’s own, for references, and for solutions to technical difficulties, but not for outright solutions to assigned work.
 - Whiteboarding solutions with others using diagrams or pseudocode but not actual code.
-- Use AI-based software as a learning guide, asking questions about material but not full solutions. Any use of AI in this course MUST be cited. See more info here.
+- Use AI-based software as a learning guide, asking questions about material but not full solutions. Any use of AI in this course MUST be cited. [See more info here.](https://github.com/mab253/dataviz_fall24/blob/main/ai-citations.md)
 
 It is **not acceptable** to:
 
 - Search for or solicit outright solutions to assessments online or elsewhere.
 - Split an assessment’s workload with another individual and combine your work. (exception: group projects)
 - Submit (after possibly modifying) the work of another individual
-- 💥 Use AI-based software without citation. See more info here.
+- 💥 Use AI-based software without citation. [See more info here.](https://github.com/mab253/dataviz_fall24/blob/main/ai-citations.md)
 
 _These terms modified and inspired by Harvard's CS50's academic honesty policy, [here](https://cs50.harvard.edu/x/2024/honesty/)._
 
