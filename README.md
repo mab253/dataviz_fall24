@@ -115,7 +115,7 @@ complete class survey; "hello world," post on Discord (invite link will be e-mai
 
 - _Visual Analysis and Design_, Munzner, [Color](https://www.youtube.com/watch?v=QNDd_hvdORw) 🎥 watch video, 18min.
 - [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/aesthetic-mapping.html), Wilke, Ch. 2, 4, and 19 (they are short)
-- start (free) codecademy seaborn course
+- start (free) [codecademy seaborn course](https://www.codecademy.com/learn/data-visualization-with-python-seaborn)
 
 ---
 
@@ -133,7 +133,7 @@ complete class survey; "hello world," post on Discord (invite link will be e-mai
 **For this week**:
 
 - storytelling readings for project, TBD
-- codecademy seaborn course
+- [codecademy seaborn course](https://www.codecademy.com/learn/data-visualization-with-python-seaborn)
 
 ---
 
