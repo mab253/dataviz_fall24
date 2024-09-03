@@ -79,7 +79,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **Readings due today:**
 - [_Data Visualization: A Practical Introduction_](https://socviz.co/lookatdata.html#lookatdata), Healy, Ch. 1 "Look at data" (1.1-1.8)
-- _The Visual Display of Quantitative Information_, Tufte, Ch. 1 "[Graphical Excellence](https://github.com/mab253/dataviz_fall23/blob/main/week1/visual-display-tufte-ch1.pdf)" (p. 13-52)
+- _The Visual Display of Quantitative Information_, Tufte, Ch. 1 "[Graphical Excellence](https://github.com/mab253/dataviz_fall24/blob/main/week1/visual-display-tufte-ch1.pdf)" (p. 13-52)
 
 ---
 
