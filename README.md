@@ -90,7 +90,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **Readings due today:**
 - [_Computational Information Design_](https://benfry.com/phd/dissertation/), Fry, Ch. 2 "Basic Example" + Ch. 5 "Process"
-- _Visual Analysis and Design_, Munzner, [Ch. 2 "What: Data Abstraction" and Ch. 3 "Why: Task Abstraction"](https://github.com/mab253/dataviz_fall23/blob/main/week2/munzner-ch2-ch3.pdf)
+- _Visual Analysis and Design_, Munzner, [Ch. 2 "What: Data Abstraction" and Ch. 3 "Why: Task Abstraction"](https://github.com/mab253/dataviz_fall24/blob/main/week2/munzner-ch2-ch3.pdf)
     - OR: 🎥 videos by Munzner, [Data Abstraction](https://www.youtube.com/watch?v=tBWMOSrASkE&list=PLT4XLHmqHJBfKoeHlmgQYP9c_KMj_dR1I&index=4) and [Task Abstraction](https://www.youtube.com/watch?v=tBWMOSrASkE&list=PLT4XLHmqHJBfKoeHlmgQYP9c_KMj_dR1I&index=4) (you choose the format, readings or videos)
 
 ---
