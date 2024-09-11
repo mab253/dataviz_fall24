@@ -22,3 +22,41 @@ There is a **[list here](https://github.com/mab253/dataviz_fall24/blob/main/sour
 After Week 2, 2-3 students in each class session will give an informal, short (_5 minute absolute max._) presentation of the visualization they chose. 
 
 ## 📆 mini-talk schedule:
+
+Week 3: (Sept. 18)
+- Sardor H.
+- Saar T.
+- Safal T.
+
+Week 4: (Sept. 25)
+- Sai Vamsee B.
+- Lisha R.
+- Jason J.
+
+Week 7: (Oct. 16)
+- Aditya M.
+- Constantine S.
+- Rubiel A.
+
+Week 8: (Oct. 23)
+- Matthew G.
+- Allen L.
+- Sardor H.
+
+Week 9 (Oct. 30)
+- Saar T.
+- Safal T.
+- Sai Vamsee B.
+
+Week 10: (Nov. 6)
+- Lisha R.
+- Jason J.
+- Aditya M.
+
+Week 11: (Nov. 13)
+- Constantine S.
+- Rubiel A.
+
+Week 12: (Nov. 20)
+- Matthew G.
+- Allen L.
