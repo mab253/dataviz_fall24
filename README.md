@@ -103,7 +103,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 **Readings due today:**
 - [_Envisioning Information_](https://github.com/mab253/dataviz_fall24/blob/main/week3/envisioning-info-tufte-color-info.pdf), Tufte, Ch. 5 "Color and Information"
 - NASA "[Elegent Figures: Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)", Parts 1 and 2
-- from _Interaction of Color_, Albers (pages TBD)
+- from _Interaction of Color_, Albers ([pages: Intro + Ch. 1, Ch. 8](https://github.com/mab253/dataviz_fall24/blob/main/week3/albers-interactionofcolor-chs.pdf) - short manifesto)
 
 ---
 
