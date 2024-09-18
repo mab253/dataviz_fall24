@@ -1,5 +1,6 @@
 ### 🖥️ lab links: 
 - [lab-week2-penguins-in-class.ipynb](https://colab.research.google.com/github/mab253/dataviz_fall24/blob/main/week2/lab_week2_penguins_in_class.ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
+- [🤖 completed version of penguins lab code, for reference](https://colab.research.google.com/github/mab253/dataviz_fall24/blob/main/week2/lab_week2_penguins_complete(1).ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
   
 ### 🤖 resources for data analysis, data visualization process, + pandas: 
 
