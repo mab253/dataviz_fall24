@@ -96,7 +96,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 3: Sep. 18** \
-🏙 In-Person at CCNY 
+🏠 Online Zoom **💥CHANGE!**
 
 *Visual Perception, Aesthetics, Color* 
 
@@ -108,7 +108,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 4: Sep. 25** \
-🏠 Online Zoom 
+🏙 In-Person at CCNY **💥CHANGE!**
 
 *Color II* 
 
