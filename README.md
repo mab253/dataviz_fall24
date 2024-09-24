@@ -140,8 +140,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 📊 _Project #1 Due_, Oct. 13th by 11:59pm 
 - [more info + submit form](https://github.com/mab253/dataviz_fall24/blob/main/project1.md)
-- includes completing codecademy seaborn course, all free sections ("Make Charts with Seaborn" and "Modify Chart Parameters with Seaborn")
-
+- includes completing codecademy seaborn course, all free sections
 --- 
 
 **Week 7: Oct. 16** \
