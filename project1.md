@@ -50,6 +50,7 @@ Your work will be evaluated based on your analysis process, final visualizations
   - Clear and relevant captions, titles, axes, and any other necessary labels
 
 ## ✉️ submit your work 
+  - Include a screenshot that shows your completion of the codecademy seaborn course.
   - Your exploratory analysis, code, and initial rough graphics should all be cleanly organized in 1 Jupyter notebook.
   - Your final standalone graphics should also be in the same notebook, clearly marked as your 2 final visualizations.
   - The report text can also be inside the same Jupyter notebook, at the end after your final visualization renderings.
