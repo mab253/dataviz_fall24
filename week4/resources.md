@@ -11,3 +11,4 @@
 ### 🎨 tools + palettes:
 - [ColorBrewer](https://colorbrewer2.org)
 - [Colormind](http://colormind.io/), AI-generated palettes (also check out their blog)
+- [HTML Color Picker](https://htmlcolorcodes.com/color-picker/), shows hex vs. rgb vs. hsl etc.
