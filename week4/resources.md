@@ -1,5 +1,6 @@
 ### 🖥️ lab links: 
 - [lab_week4_color_ii_class.ipynb](https://colab.research.google.com/github/mab253/dataviz_fall24/blob/main/week4/lab_week4_color_ii_class.ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
+- lab week4 completed version(https://colab.research.google.com/github/mab253/dataviz_fall24/blob/main/week4/lab_week4_color_ii_complete2.ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
   
 ### 🤖 resources for color:
 - [Seaborn documentation](https://seaborn.pydata.org/), generally (choose `API` for full list of functions)
