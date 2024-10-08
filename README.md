@@ -133,7 +133,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **For this week**:
 
-- storytelling readings for project, TBD
+- _optional_ reading on data storytelling: [_The Shape of Design_](https://shapeofdesignbook.com/chapters/07-stories-and-voids), Chimero, Ch. 7 "Stories and Voids"
 - [codecademy seaborn course](https://www.codecademy.com/learn/data-visualization-with-python-seaborn)
 
 ---
