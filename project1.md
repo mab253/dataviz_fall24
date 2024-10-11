@@ -54,5 +54,5 @@ Your work will be evaluated based on your analysis process, final visualizations
   - Your exploratory analysis, code, and initial rough graphics should all be cleanly organized in 1 Jupyter notebook.
   - Your final standalone graphics should also be in the same notebook, clearly marked as your 2 final visualizations.
   - The report text can also be inside the same Jupyter notebook, at the end after your final visualization renderings.
-  - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrCU8LYwR5EtMVPf) to submit your work **by Oct. 13th, 11:59pm.**
+  - Please use [this form](https://airtable.com/app6HibgdChLzfvNP/shrcVxBBdPwLd2SMA) to submit your work **by Oct. 13th, 11:59pm.**
 
