@@ -150,7 +150,9 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **Readings due today:**
 - [_Data in Wonderland_](https://ssp3nc3r.github.io/data_in_wonderland/#interactive), Spencer, Ch. 3 "Interactive" - all of Ch. 3!
-- intro Javascript, TBD
+- [_Basics of HTML_](https://www.youtube.com/watch?v=CkzbI1Tv_rQ&t=7s), L. Schwulst from _Very Interactive_, 🎥 14min.
+- _*optional*_, recommended if you already are familiar with JS:
+    - [_D3 for the Impatient: Interactive Graphics for Programmers and Scientists_](https://github.com/mab253/dataviz_fall23/blob/main/week5/d3-for-the-impatient-interactive-graphics-for-programmers-and-scientists-ch2.pdf), Janert, p. 11-30 in Ch. 2
 
 
 ---
