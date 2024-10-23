@@ -1,4 +1,5 @@
 ### 🖥️ lab link:
+- **in-class code**: [MAB finished d3 project from 10.16.24](https://glitch.com/edit/#!/glacier-shade-exoplanet?path=index.html%3A1%3A0)
 - [Glitch.com starter project](https://glitch.com/edit/#!/dataviz-interactivity-d3intro?path=index.html%3A15%3A63) - click here!
   - click "remix" button, upper right
   - click "glitch" button after new project loads, in upper left - to create an account
