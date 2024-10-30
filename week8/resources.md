@@ -1,4 +1,5 @@
 ### 🖥️ lab link:
+- **in-class** [completed Glitch.com squirrels map project](https://glitch.com/edit/#!/zesty-living-citron), for reference
 - [Glitch.com 🌎 MAP starter project](https://glitch.com/edit/#!/maps-leaflet-playground) - click here!
   - log-in (you should have an account, or start a free one if you need) 
   - click "remix" button, upper right to get your own editable copy of the project
