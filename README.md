@@ -219,7 +219,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 ---
 
-📊 **_Project #2 Due_**, Dec. 1st (Sunday) by 11:59pm
+📊 **_Project #2 Due_**, Dec. 1st (Sunday) by 11:59pm **💥CHANGE!**
 
 ---
 
