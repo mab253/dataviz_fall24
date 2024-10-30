@@ -257,7 +257,7 @@ DUE: Dec. 9th, 11:59pm
 
 ## key dates
 - project #1: due Oct. 18, 11:59pm
-- project #2: due Nov. 26, 11:59pm
+- project #2: due Dec. 1, 11:59pm
 - final reflection: due Dec. 9th, 11:59pm
 
 ## assignments
