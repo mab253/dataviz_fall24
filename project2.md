@@ -42,11 +42,13 @@ SOME THOUGHTS ON SCOPE & EXAMPLES:
 The project is open-ended for a reason - let your curiosity be your guide, and your final work should be unique rather than a copy of any of the following examples!
 
 - a map, for example, could have area + points + pop-ups, multiple layers, or a scrolling story map - you could use your Leaflet skills or try [Mapbox](https://docs.mapbox.com/mapbox-gl-js/example/)
-- for example: [Mapping Stop and Frisk, NYC](https://docs.mapbox.com/mapbox-gl-js/example/), NYT
+- for example: [Mapping Stop and Frisk, NYC](https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-map.html), NYT
 - for example: [AAPI Census Data](https://ucla-center-for-neighborhood-knowledge.github.io/hub-census-map/), Movement Hub
 - for example: [Shipmap!](https://www.shipmap.org/)
 - for example: [A Map of Citi Bike](https://projects.newyorker.com/story/citi-bike.html), New Yorker
 - for example: [2020 Election Results Map](https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html), NYT
+- for example: [Unlock NYC](https://weunlock.nyc/data/soi-map/) - choropleth + points combination, housing discrimination data (MAB project)
+- for example: [Networks Beyond Borders](https://migration.nyudri.org/map/) - your map could tell a story, fly between locations! (MAB project)
 
 maybe you make a complex hand-drawn based map, (I am open to this! - with online documentation)
 - for example: "[Bats and the Origins of Outbreaks](https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)"
