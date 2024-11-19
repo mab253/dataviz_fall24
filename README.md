@@ -214,8 +214,6 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **Readings due today:**
 - ["A visual introduction to machine learning,"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/), Part I & II, R2D3
-- "What is a model?" from _Weapons of Math Destruction_, pages TBD
-- on K-Means + Critical, TBD
 
 ---
 
