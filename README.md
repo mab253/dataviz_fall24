@@ -242,13 +242,13 @@ All work for this class will be lab, project, and presentation-based, and there 
 **Week 15: Dec. 11** \
 🦋 Asynchronous 
 
-*Questioning Automation, Final Reflections* 
+*Final Reflections* 
 
 **Readings due today:**
-- TBD
+- see last week
 
 **Assignment:** final reflection \
-DUE: Dec. 9th, 11:59pm
+DUE: Dec. 14th, 11:59pm 
 
 ---
 
@@ -256,7 +256,7 @@ DUE: Dec. 9th, 11:59pm
 ## key dates
 - project #1: due Oct. 18, 11:59pm
 - project #2: due Dec. 1, 11:59pm
-- final reflection: due Dec. 9th, 11:59pm
+- final reflection: due Dec. 14th, 11:59pm
 
 ## assignments
 
